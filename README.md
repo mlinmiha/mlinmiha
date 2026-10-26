@@ -1,11 +1,11 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/wp-dark.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/wp-light.jpg">
-    <img src="assets/wp-dark.jpg" alt="wallpaper" width="1500"/>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/wallpaper-dark.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/wallpaper-light.jpg">
+    <img src="assets/wallpaper-dark.jpg" alt="wallpaper" width="1500"/>
   </picture>
 </p>
-<p align="right">
+<p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="22"/>
