@@ -1,18 +1,11 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-    <img src="assets/header-dark.svg" alt="Miha Mlinarič — Full-Stack · AI · Automation" width="880"/>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/wp-dark.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/wp-light.jpg">
+    <img src="assets/wp-dark.jpg" alt="wallpaper" width="1500"/>
   </picture>
 </p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/now-light.svg">
-    <img src="assets/now-dark.svg" alt="now" width="720"/>
-  </picture>
-</p>
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="22"/>
